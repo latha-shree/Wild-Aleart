@@ -131,7 +131,7 @@ Email/SMS alerts in addition to Telegram
 
 Deploy on Raspberry Pi for farm monitoring
 
-![detect_realtime]()
+![detect_realtime](https://github.com/latha-shree/Wild-Aleart/blob/main/detect_realtime1.png)
 ![horse](https://github.com/latha-shree/Wild-Aleart/blob/main/detected_horse.jpg)
 ![bear](https://github.com/latha-shree/Wild-Aleart/blob/main/detected_bear.jpg)
 ![bird](https://github.com/latha-shree/Wild-Aleart/blob/main/detected_bird.jpg)
